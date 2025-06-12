@@ -10,6 +10,4 @@ A Python automation script that reads a list of contacts from a CSV file and sen
 - Sends emails via any SMTP server (e.g., Gmail)
 - Fully configurable and beginner-friendly
 
----
 
-## 📂 File Structure
